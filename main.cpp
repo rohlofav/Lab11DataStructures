@@ -12,4 +12,6 @@ int main()
     std::cout << "Defense: " << myPokemon->GetDefense() << std::endl;
 
     return 0;
+
+    std::cout << "Lab 11 change here" << std::endl;
 }
